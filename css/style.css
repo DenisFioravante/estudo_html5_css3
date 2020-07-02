@@ -1,0 +1,46 @@
+body{
+    background:#E8C5C5;
+    margin-left: 50px;
+    margin-right: 200px;
+}
+
+header{
+    margin-top: 100px;
+}
+
+h1{
+    font-family: fantasy;
+    color: red;
+}
+
+h2{
+    font-family: fantasy;
+}
+
+p{
+    font-size: 18px;
+}
+
+footer{
+    margin-bottom: 30px;
+}
+
+.img_servico{
+    margin-bottom: 20px;
+    width: 300px;
+}
+
+.img_cliente{
+    margin-bottom: 20px;
+    width: 300px;
+}
+
+.img_time{
+    margin-bottom: 20px;
+    width: 300px;
+}
+
+.logo{
+    
+    width: 40px;
+}
